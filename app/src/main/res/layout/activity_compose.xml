@@ -31,4 +31,12 @@
         android:text="Tweet"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/field_tweet" />
+
+    <TextView
+        android:id="@+id/char_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0 / 280"
+        app:layout_constraintStart_toStartOf="@+id/field_tweet"
+        app:layout_constraintTop_toTopOf="@+id/btn_tweet" />
 </androidx.constraintlayout.widget.ConstraintLayout>

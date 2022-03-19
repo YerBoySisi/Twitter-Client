@@ -35,11 +35,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+https://youtube.com/shorts/R_IklVYuDec
 
 ## Notes
 
-No challenges were encountered while completing this problem.
+No challenges were encountered while completing this project. Noteworthy that startActivityForResult(intent, requestCode) is deprecated in Java. Noteworthy that onActivityResult(requestCode, resultCode, data) is deprecated in Java.
 
 ----------------------------------------
 # Project 2 - *Twitter Client* (Part 1)
